@@ -3,7 +3,7 @@
 *Avacado
 *Head of Garlic
 *Cumin
-*Lemon
+*Lime
 *Salt
 *Tabasco
 ## Instructions
