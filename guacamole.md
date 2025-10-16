@@ -7,6 +7,7 @@
 *Salt
 *Tabasco
 ## Instructions
+*Take a large mixing bowl
 *mash avacado
 *add garlic
 
